@@ -114,28 +114,6 @@ Todas las tablas incluyen:
 - Estimación de tiempo basada en características
 - Recomendaciones de asignación de personal
 
-## Próximos Pasos Sugeridos
-
-1. **Machine Learning Avanzado**
-   - Entrenar modelos de regresión con datos históricos reales
-   - Implementar Random Forest o XGBoost para predicciones más precisas
-   - Validación cruzada con datos de producción
-
-2. **Integración de Datos**
-   - Cargar datasets reales en la base de datos
-   - API para importación masiva de datos
-   - Sincronización con sistemas existentes
-
-3. **Optimización**
-   - Dashboard de planificación por turnos
-   - Algoritmo de asignación óptima de empleados
-   - Alertas automáticas de carga excesiva
-
-4. **Reportes**
-   - Generación de reportes PDF
-   - Exportación a Excel
-   - Análisis de tendencias históricas
-
 ## Instalación
 
 ```bash
